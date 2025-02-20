@@ -4,7 +4,7 @@ Eu pensava que pensando não pensava em pensar.
 
 ##⚡Tecnologias
 
-Plataformas de Low-Code Power Plataform:
+Plataformas de Low-Code Power Platform:
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white)
 
 Linguagens:
