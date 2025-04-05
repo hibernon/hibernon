@@ -14,8 +14,7 @@ Linguagens:
 
 Frameworks:
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logoColor=white&style=flat-square)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=flat-square&logo=axios&logoColor=white)
